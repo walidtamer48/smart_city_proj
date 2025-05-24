@@ -1,0 +1,4 @@
+line_id,name,stations,daily_passengers
+M1,Line 1 (Helwan-New Marg),1->12->3->F2->11,15000000
+M2,Line 2 (Shubra-Giza),11->F2->3->10->6,12000000
+M3,Line 3 (Airport-Imbaba),F1->5->2->3->9,8000000
